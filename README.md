@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Part of projects at https://sr.ht/~riderius/
+
 ### About me
 
 * I python developer
