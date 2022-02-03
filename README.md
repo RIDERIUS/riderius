@@ -22,4 +22,5 @@ Part of projects at https://sr.ht/~riderius/
 * I python developer
 * In learning C++
 
+![gh_trophy](https://github-profile-trophy.vercel.app/?username=riderius&theme=darkhub&no-frame=true&column=7)
 ![github stats](https://github-readme-stats.vercel.app/api?username=riderius&show_icons=true&theme=dark)
